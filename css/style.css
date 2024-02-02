@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
+
+.sedans{
+    background-color: hsl(31, 77%, 52%);
+}
+
+.carte{
+    margin-top: 100px;
+}
+
+.sedans-more{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 20px;
+    color: hsl(31, 77%, 52%);
+    font-family: Lexend Deca;
+}
+
+.sedans-more:hover{
+    background-color: hsl(31, 77%, 52%);
+    color: white;
+    border: solid 1px;
+}
+
+.title{
+    font-family: Big Shoulders Display;
+    font-size: 40px;
+}
+
+p{
+    font-family: Lexend Deca;
+    font-size: 15px;
+}
+
+.description{
+    line-height: 1.8;
+    opacity: 0.6;
+}
+
+.suvs{
+    background-color: hsl(184, 100%, 22%);
+}
+
+.suvs-more{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 20px;
+    color: hsl(184, 100%, 22%);
+    font-family: Lexend Deca;
+}
+
+.suvs-more:hover{
+    background-color: hsl(184, 100%, 22%);
+    color: white;
+    border: solid 1px;
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+}
+
+.luxury-more{
+    text-decoration: none;
+    background-color: white;
+    border-radius: 20px;
+    color: hsl(179, 100%, 13%);
+    font-family: Lexend Deca;
+}
+
+.luxury-more:hover{
+    background-color: hsl(179, 100%, 13%);
+    color: white;
+    border: solid 1px;
+}
+
